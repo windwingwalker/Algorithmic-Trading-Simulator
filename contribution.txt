@@ -1,0 +1,12 @@
+Contribution
+As this application will generate a lot of files, before adding those program generated file, the contribution is:
+    506 author Elliot K		Kam Wing Hang
+    411 author eric		Li Kam Po
+      1 author windWingWalker	Kam Wing Hang
+
+Affter adding those program generated files, the contribution become:
+
+158876 author Elliot K           Kam Wing Hang
+   411 author eric		 Li Kam Po
+     1 author windWingWalker     Kam Wing Hang
+
